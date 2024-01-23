@@ -1,6 +1,6 @@
 {
   "name": "canner-slate-editor",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description":
     "Another rich text editor using Slate framework with toolbar support",
   "homepage": "",
@@ -43,7 +43,7 @@
     "@ali/slate-editor-help": "^1.5.8",
     "@ali/slate-helper-block-list": "^1.5.8",
     "@ali/slate-helper-block-quote": "^1.5.8",
-    "@ali/slate-icon-align": "^1.5.8",
+    "@ali/slate-icon-align": "^1.5.9",
     "@ali/slate-icon-blockquote": "^1.5.8",
     "@ali/slate-icon-bold": "^1.5.8",
     "@ali/slate-icon-clean": "^1.5.8",

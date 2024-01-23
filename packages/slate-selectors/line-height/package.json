@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-select-lineheight",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "A slate selector for setting line height",
   "main": "lib/index.js",
   "author": "",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@ali/slate-icon-shared": "^1.5.8",
-    "@ali/slate-select-shared": "^1.5.8"
+    "@ali/slate-select-shared": "^1.5.9"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

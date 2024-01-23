@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-select-shared",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "Shared components and utilities in selectors",
   "main": "./lib/index.js",
   "author": "",
@@ -14,7 +14,7 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@ali/slate-helper-block-adddata": "^1.5.8",
+    "@ali/slate-helper-block-adddata": "^1.5.9",
     "@ali/slate-helper-block-cleardatabykey": "^1.5.8",
     "@ali/slate-helper-mark-addoverwrite": "^1.5.8",
     "@ali/slate-helper-mark-removetype": "^1.5.8",
