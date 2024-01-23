@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-icon-blockquote",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "A slate icon for blockquote",
   "main": "lib/index.js",
   "author": "",
@@ -17,7 +17,7 @@
   "dependencies": {
     "@canner/slate-editor-renderer": "^1.5.2",
     "@canner/slate-helper-block-quote": "^1.5.2",
-    "@lneedy/slate-icon-shared": "^1.5.2",
+    "@lneedy/slate-icon-shared": "^1.5.3",
     "is-hotkey": "^0.1.2",
     "lodash.omit": "^4.5.0",
     "slate-edit-blockquote": "0.5.0"

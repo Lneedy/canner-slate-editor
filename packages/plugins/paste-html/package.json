@@ -1,6 +1,6 @@
 {
   "name": "@canner/slate-paste-html-plugin",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "A copy and paste HTML plugin for slate framework",
   "main": "lib/index.js",
   "license": "MIT",
@@ -10,7 +10,7 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@canner/slate-editor-html": "^1.5.2"
+    "@canner/slate-editor-html": "^1.5.3"
   },
   "publishConfig": {
     "access": "public"

@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-icon-hr",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "Slate icons for hr",
   "main": "lib/index.js",
   "author": "",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@canner/slate-editor-renderer": "^1.5.2",
-    "@lneedy/slate-icon-shared": "^1.5.2"
+    "@lneedy/slate-icon-shared": "^1.5.3"
   },
   "gitHead": "bb30f8746be7cbe2cda641b6b74c9d976bb56e31"
 }

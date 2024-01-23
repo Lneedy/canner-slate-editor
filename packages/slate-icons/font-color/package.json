@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-icon-fontcolor",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "A slate icon for fontColor",
   "main": "lib/index.js",
   "author": "",
@@ -17,9 +17,9 @@
   "dependencies": {
     "@canner/slate-editor-renderer": "^1.5.2",
     "@canner/slate-helper-mark-addoverwrite": "^1.5.2",
-    "@lneedy/slate-icon-shared": "^1.5.2",
     "@canner/slate-util-get": "^1.5.2",
     "@canner/slate-util-have": "^1.5.2",
+    "@lneedy/slate-icon-shared": "^1.5.3",
     "hex-rgb": "^2.0.0",
     "lodash.omit": "^4.5.0",
     "rc-color-picker": "^1.2.6"
