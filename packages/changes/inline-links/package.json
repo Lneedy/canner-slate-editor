@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-helper-inline-links",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "A slate helper for links",
   "main": "lib/index.js",
   "directories": {
@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@lneedy/slate-util-have": "^1.5.5"
+    "@lneedy/slate-util-have": "^1.5.6"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

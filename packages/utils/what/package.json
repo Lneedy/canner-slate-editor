@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-util-what",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "A slate utility function to get types",
   "main": "lib/index.js",
   "publishConfig": {

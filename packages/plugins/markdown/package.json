@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-md-plugin",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "A markdown plugin for slate framework",
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-icon-shared",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "Shared utils and functions for slate icons",
   "main": "lib/index.js",
   "author": "",
@@ -15,12 +15,12 @@
     "slate": "^0.33.0"
   },
   "dependencies": {
-    "@lneedy/slate-editor-renderer": "^1.5.5",
-    "@lneedy/slate-util-have": "^1.5.5",
+    "@lneedy/slate-editor-renderer": "^1.5.6",
+    "@lneedy/slate-util-have": "^1.5.6",
     "classnames": "^2.2.5",
     "is-hotkey": "^0.1.2",
     "lodash.omit": "^4.5.0",
-    "quill-icons": "^1.5.5"
+    "quill-icons": "^1.5.6"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }
