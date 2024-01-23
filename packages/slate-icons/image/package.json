@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-icon-image",
-  "version": "1.5.0",
+  "version": "1.5.5",
   "description": "Slate icon for image",
   "main": "lib/index.js",
   "author": "",
@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "@lneedy/image-upload": "^0.13.1",
-    "@lneedy/slate-editor-renderer": "^1.5.0",
-    "@lneedy/slate-icon-shared": "^1.5.0"
+    "@lneedy/slate-editor-renderer": "^1.5.5",
+    "@lneedy/slate-icon-shared": "^1.5.5"
   },
   "gitHead": "bb30f8746be7cbe2cda641b6b74c9d976bb56e31"
 }

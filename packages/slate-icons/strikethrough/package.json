@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-icon-strikethrough",
-  "version": "1.5.0",
+  "version": "1.5.5",
   "description": "A slate icon for strikethrough",
   "main": "lib/index.js",
   "publishConfig": {
@@ -15,8 +15,8 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lneedy/slate-editor-renderer": "^1.5.0",
-    "@lneedy/slate-icon-shared": "^1.5.0"
+    "@lneedy/slate-editor-renderer": "^1.5.5",
+    "@lneedy/slate-icon-shared": "^1.5.5"
   },
   "gitHead": "bb30f8746be7cbe2cda641b6b74c9d976bb56e31"
 }

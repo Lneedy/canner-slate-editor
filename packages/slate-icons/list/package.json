@@ -1,6 +1,6 @@
 {
   "name": "@lneedy/slate-icon-list",
-  "version": "1.5.0",
+  "version": "1.5.5",
   "description": "Slate icon for lists",
   "main": "lib/index.js",
   "author": "",
@@ -15,9 +15,9 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lneedy/slate-editor-renderer": "^1.5.0",
-    "@lneedy/slate-helper-block-list": "^1.5.0",
-    "@lneedy/slate-icon-shared": "^1.5.0",
+    "@lneedy/slate-editor-renderer": "^1.5.5",
+    "@lneedy/slate-helper-block-list": "^1.5.5",
+    "@lneedy/slate-icon-shared": "^1.5.5",
     "slate-edit-list": "^0.11.2"
   },
   "gitHead": "bb30f8746be7cbe2cda641b6b74c9d976bb56e31"
