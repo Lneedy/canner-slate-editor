@@ -1,6 +1,6 @@
 {
   "name": "@lzx01497474/slate-icon-fontbgcolor",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "description": "A slate icon for fontBgColor",
   "main": "lib/index.js",
   "author": "",
@@ -15,11 +15,11 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lzx01497474/slate-editor-renderer": "^1.5.6",
-    "@lzx01497474/slate-helper-mark-addoverwrite": "^1.5.6",
-    "@lzx01497474/slate-icon-shared": "^1.5.6",
-    "@lzx01497474/slate-util-get": "^1.5.6",
-    "@lzx01497474/slate-util-have": "^1.5.6",
+    "@lzx01497474/slate-editor-renderer": "^1.5.7",
+    "@lzx01497474/slate-helper-mark-addoverwrite": "^1.5.7",
+    "@lzx01497474/slate-icon-shared": "^1.5.7",
+    "@lzx01497474/slate-util-get": "^1.5.7",
+    "@lzx01497474/slate-util-have": "^1.5.7",
     "hex-rgb": "^2.0.0",
     "lodash.omit": "^4.5.0",
     "rc-color-picker": "^1.2.6"

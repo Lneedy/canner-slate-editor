@@ -1,6 +1,6 @@
 {
   "name": "@lzx01497474/slate-icon-bold",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "description": "A slate icon for bold",
   "main": "lib/index.js",
   "author": "",
@@ -15,8 +15,8 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lzx01497474/slate-editor-renderer": "^1.5.6",
-    "@lzx01497474/slate-icon-shared": "^1.5.6",
+    "@lzx01497474/slate-editor-renderer": "^1.5.7",
+    "@lzx01497474/slate-icon-shared": "^1.5.7",
     "lodash.omit": "^4.5.0"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"

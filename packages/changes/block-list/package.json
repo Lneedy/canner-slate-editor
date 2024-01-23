@@ -1,6 +1,6 @@
 {
   "name": "@lzx01497474/slate-helper-block-list",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "description": "A helper for block list",
   "main": "lib/index.js",
   "publishConfig": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@lzx01497474/slate-constant": "^1.5.6",
+    "@lzx01497474/slate-constant": "^1.5.7",
     "slate-edit-list": "^0.11.2"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"

@@ -1,6 +1,6 @@
 {
   "name": "@lzx01497474/slate-util-get",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "description": "A slate utility function to get values",
   "main": "lib/index.js",
   "publishConfig": {

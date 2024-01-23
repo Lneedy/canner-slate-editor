@@ -1,6 +1,6 @@
 {
   "name": "@lzx01497474/slate-util-have",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "description": "Utility functions for judging whether it have something",
   "main": "lib/index.js",
   "directories": {
