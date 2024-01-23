@@ -105,5 +105,8 @@
   },
   "repository": "Canner/canner-slate-editor",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://registry.anpm.alibaba-inc.com"
+  }
 }
