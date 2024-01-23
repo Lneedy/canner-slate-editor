@@ -3,5 +3,8 @@
   "packages": ["packages/**"],
   "useWorkspaces": true,
   "npmClient": "yarn",
-  "version": "1.5.8"
+  "version": "1.5.8",
+  "publishConfig": {
+    "registry": "https://registry.anpm.alibaba-inc.com"
+  }
 }
