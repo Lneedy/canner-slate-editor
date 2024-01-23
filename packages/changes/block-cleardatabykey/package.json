@@ -1,5 +1,5 @@
 {
-  "name": "@canner/slate-helper-block-cleardatabykey",
+  "name": "@lneedy/slate-helper-block-cleardatabykey",
   "version": "1.5.0",
   "description": "A slate helper that clear a data key in block",
   "main": "lib/index.js",

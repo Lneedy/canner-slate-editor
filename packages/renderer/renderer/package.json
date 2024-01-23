@@ -1,5 +1,5 @@
 {
-  "name": "@canner/slate-editor-renderer",
+  "name": "@lneedy/slate-editor-renderer",
   "version": "1.5.0",
   "description": "Renderers for slate nodes and marks",
   "main": "lib/index.js",
@@ -15,7 +15,7 @@
     "styled-components": "^3.2.1"
   },
   "dependencies": {
-    "@canner/slate-helper-inline-adddata": "^1.5.0",
+    "@lneedy/slate-helper-inline-adddata": "^1.5.0",
     "emoji-mart": "^2.5.0",
     "js-video-url-parser": "^0.2.7",
     "lodash.mapvalues": "^4.6.0",

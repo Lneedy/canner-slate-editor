@@ -1,5 +1,5 @@
 {
-  "name": "@canner/slate-constant",
+  "name": "@lneedy/slate-constant",
   "version": "1.5.0",
   "description": "Constants in Slate editors",
   "main": "./lib/index",

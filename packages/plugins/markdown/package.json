@@ -1,5 +1,5 @@
 {
-  "name": "@canner/slate-md-plugin",
+  "name": "@lneedy/slate-md-plugin",
   "version": "1.5.4",
   "description": "A markdown plugin for slate framework",
   "repository": {

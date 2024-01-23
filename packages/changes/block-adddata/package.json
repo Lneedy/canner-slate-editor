@@ -1,5 +1,5 @@
 {
-  "name": "@canner/slate-helper-block-adddata",
+  "name": "@lneedy/slate-helper-block-adddata",
   "version": "1.5.0",
   "description": "A slate helper to add data to current block",
   "main": "lib/index.js",

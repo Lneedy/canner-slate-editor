@@ -1,5 +1,5 @@
 {
-  "name": "@canner/slate-util-what",
+  "name": "@lneedy/slate-util-what",
   "version": "1.5.0",
   "description": "A slate utility function to get types",
   "main": "lib/index.js",
