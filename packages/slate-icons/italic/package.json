@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-icon-italic",
+  "name": "@ali/slate-icon-italic",
   "version": "1.5.7",
   "description": "A slate icon for italic",
   "main": "lib/index.js",
@@ -9,14 +9,14 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@lzx01497474/slate-constant": ">=1.0.6",
+    "@ali/slate-constant": ">=1.0.6",
     "react": "^0.14.0 || ^15.0.0 || 16.x",
     "react-dom": "^0.14.0 || ^15.0.0 || 16.x",
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lzx01497474/slate-editor-renderer": "^1.5.7",
-    "@lzx01497474/slate-icon-shared": "^1.5.7"
+    "@ali/slate-editor-renderer": "^1.5.7",
+    "@ali/slate-icon-shared": "^1.5.7"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

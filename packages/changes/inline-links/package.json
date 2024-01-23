@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-helper-inline-links",
+  "name": "@ali/slate-helper-inline-links",
   "version": "1.5.7",
   "description": "A slate helper for links",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@lzx01497474/slate-util-have": "^1.5.7"
+    "@ali/slate-util-have": "^1.5.7"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

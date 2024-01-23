@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-select-shared",
+  "name": "@ali/slate-select-shared",
   "version": "1.5.7",
   "description": "Shared components and utilities in selectors",
   "main": "./lib/index.js",
@@ -14,12 +14,12 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lzx01497474/slate-helper-block-adddata": "^1.5.7",
-    "@lzx01497474/slate-helper-block-cleardatabykey": "^1.5.7",
-    "@lzx01497474/slate-helper-mark-addoverwrite": "^1.5.7",
-    "@lzx01497474/slate-helper-mark-removetype": "^1.5.7",
-    "@lzx01497474/slate-util-get": "^1.5.7",
-    "@lzx01497474/slate-util-have": "^1.5.7",
+    "@ali/slate-helper-block-adddata": "^1.5.7",
+    "@ali/slate-helper-block-cleardatabykey": "^1.5.7",
+    "@ali/slate-helper-mark-addoverwrite": "^1.5.7",
+    "@ali/slate-helper-mark-removetype": "^1.5.7",
+    "@ali/slate-util-get": "^1.5.7",
+    "@ali/slate-util-have": "^1.5.7",
     "quill-icons": "^1.5.6",
     "styled-components": "^3.2.3"
   },

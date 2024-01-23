@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-icon-align",
+  "name": "@ali/slate-icon-align",
   "version": "1.5.7",
   "description": "A set of alignment icons in slate editors",
   "main": "lib/index.js",
@@ -14,10 +14,10 @@
     "slate": "^0.33.0"
   },
   "dependencies": {
-    "@lzx01497474/slate-helper-block-adddata": "^1.5.7",
-    "@lzx01497474/slate-helper-block-cleardatabykey": "^1.5.7",
-    "@lzx01497474/slate-icon-shared": "^1.5.7",
-    "@lzx01497474/slate-util-have": "^1.5.7",
+    "@ali/slate-helper-block-adddata": "^1.5.7",
+    "@ali/slate-helper-block-cleardatabykey": "^1.5.7",
+    "@ali/slate-icon-shared": "^1.5.7",
+    "@ali/slate-util-have": "^1.5.7",
     "is-hotkey": "^0.1.2"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"

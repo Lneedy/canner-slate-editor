@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-icon-fontcolor",
+  "name": "@ali/slate-icon-fontcolor",
   "version": "1.5.7",
   "description": "A slate icon for fontColor",
   "main": "lib/index.js",
@@ -9,17 +9,17 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@lzx01497474/slate-constant": ">=1.0.5",
+    "@ali/slate-constant": ">=1.0.5",
     "react": "^0.14.0 || ^15.0.0 || 16.x",
     "react-dom": "^0.14.0 || ^15.0.0 || 16.x",
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lzx01497474/slate-editor-renderer": "^1.5.7",
-    "@lzx01497474/slate-helper-mark-addoverwrite": "^1.5.7",
-    "@lzx01497474/slate-icon-shared": "^1.5.7",
-    "@lzx01497474/slate-util-get": "^1.5.7",
-    "@lzx01497474/slate-util-have": "^1.5.7",
+    "@ali/slate-editor-renderer": "^1.5.7",
+    "@ali/slate-helper-mark-addoverwrite": "^1.5.7",
+    "@ali/slate-icon-shared": "^1.5.7",
+    "@ali/slate-util-get": "^1.5.7",
+    "@ali/slate-util-have": "^1.5.7",
     "hex-rgb": "^2.0.0",
     "lodash.omit": "^4.5.0",
     "rc-color-picker": "^1.2.6"

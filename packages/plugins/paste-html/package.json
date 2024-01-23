@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-paste-html-plugin",
+  "name": "@ali/slate-paste-html-plugin",
   "version": "1.5.7",
   "description": "A copy and paste HTML plugin for slate framework",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lzx01497474/slate-editor-html": "^1.5.7"
+    "@ali/slate-editor-html": "^1.5.7"
   },
   "publishConfig": {
     "access": "public"

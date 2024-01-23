@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-helper-mark-removeall",
+  "name": "@ali/slate-helper-mark-removeall",
   "version": "1.5.7",
   "description": "A slate helper to remove all mark",
   "main": "lib/index.js",

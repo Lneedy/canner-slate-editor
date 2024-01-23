@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-icon-redo",
+  "name": "@ali/slate-icon-redo",
   "version": "1.5.7",
   "description": "Slate icon for redo",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lzx01497474/slate-icon-shared": "^1.5.7",
+    "@ali/slate-icon-shared": "^1.5.7",
     "is-hotkey": "^0.1.2"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"

@@ -1,5 +1,5 @@
 {
-  "name": "@lzx01497474/slate-constant",
+  "name": "@ali/slate-constant",
   "version": "1.5.7",
   "description": "Constants in Slate editors",
   "main": "./lib/index",
