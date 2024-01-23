@@ -1,5 +1,5 @@
 {
-  "name": "@lneedy/slate-helper-inline-adddata",
+  "name": "@lzx01497474/slate-helper-inline-adddata",
   "version": "1.5.6",
   "description": "A slate helper to add data to current inline",
   "main": "lib/index.js",

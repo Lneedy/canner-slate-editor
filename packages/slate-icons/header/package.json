@@ -1,5 +1,5 @@
 {
-  "name": "@lneedy/slate-icon-header",
+  "name": "@lzx01497474/slate-icon-header",
   "version": "1.5.6",
   "description": "Slate icons for headers",
   "main": "lib/index.js",
@@ -9,15 +9,15 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@lneedy/slate-constant": ">=1.0.5",
+    "@lzx01497474/slate-constant": ">=1.0.5",
     "react": "^0.14.0 || ^15.0.0 || 16.x",
     "react-dom": "^0.14.0 || ^15.0.0 || 16.x",
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@lneedy/slate-editor-renderer": "^1.5.6",
-    "@lneedy/slate-icon-shared": "^1.5.6",
-    "@lneedy/slate-util-have": "^1.5.6",
+    "@lzx01497474/slate-editor-renderer": "^1.5.6",
+    "@lzx01497474/slate-icon-shared": "^1.5.6",
+    "@lzx01497474/slate-util-have": "^1.5.6",
     "is-hotkey": "^0.1.2"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"

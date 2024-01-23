@@ -1,12 +1,12 @@
 {
-  "name": "@lneedy/slate-icon-blockquote",
+  "name": "@lzx01497474/slate-icon-blockquote",
   "version": "1.5.6",
   "description": "A slate icon for blockquote",
   "main": "lib/index.js",
   "author": "",
   "license": "MIT",
   "peerDependencies": {
-    "@lneedy/slate-constant": ">=1.0.3",
+    "@lzx01497474/slate-constant": ">=1.0.3",
     "react": "^0.14.0 || ^15.0.0 || 16.x",
     "react-dom": "^0.14.0 || ^15.0.0 || 16.x",
     "slate": ">=0.33.0"
@@ -15,9 +15,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@lneedy/slate-editor-renderer": "^1.5.6",
-    "@lneedy/slate-helper-block-quote": "^1.5.6",
-    "@lneedy/slate-icon-shared": "^1.5.6",
+    "@lzx01497474/slate-editor-renderer": "^1.5.6",
+    "@lzx01497474/slate-helper-block-quote": "^1.5.6",
+    "@lzx01497474/slate-icon-shared": "^1.5.6",
     "is-hotkey": "^0.1.2",
     "lodash.omit": "^4.5.0",
     "slate-edit-blockquote": "0.5.0"

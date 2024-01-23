@@ -1,5 +1,5 @@
 {
-  "name": "@lneedy/slate-editor-html",
+  "name": "@lzx01497474/slate-editor-html",
   "version": "1.5.6",
   "description": "Serializer and Deserializer for slate editor",
   "main": "lib/index",
@@ -9,16 +9,16 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@lneedy/slate-constant": ">=1.0.2",
+    "@lzx01497474/slate-constant": ">=1.0.2",
     "react": "^0.14.0 || ^15.0.0 || 16.x",
     "react-dom": "^0.14.0 || ^15.0.0 || 16.x",
     "slate": "^0.33.0",
     "styled-components": "^3.2.1"
   },
   "dependencies": {
-    "@lneedy/slate-constant": "^1.5.6",
-    "@lneedy/slate-icon-shared": "^1.5.6",
-    "@lneedy/slate-icon-video": "^1.5.6",
+    "@lzx01497474/slate-constant": "^1.5.6",
+    "@lzx01497474/slate-icon-shared": "^1.5.6",
+    "@lzx01497474/slate-icon-video": "^1.5.6",
     "lodash.mapvalues": "^4.6.0"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
