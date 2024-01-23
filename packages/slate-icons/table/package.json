@@ -1,5 +1,5 @@
 {
-  "name": "@canner/slate-icon-table",
+  "name": "@lneedy/slate-icon-table",
   "version": "1.5.2",
   "description": "A slate icon for table",
   "main": "lib/index.js",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@canner/slate-editor-renderer": "^1.5.2",
-    "@canner/slate-icon-shared": "^1.5.2",
+    "@lneedy/slate-icon-shared": "^1.5.2",
     "create-table-picker": "^0.1.2",
     "lodash.omit": "^4.5.0",
     "slate-edit-table": "^0.15.0-alpha.4"

@@ -1,5 +1,5 @@
 {
-  "name": "@canner/slate-icon-shared",
+  "name": "@lneedy/slate-icon-shared",
   "version": "1.5.2",
   "description": "Shared utils and functions for slate icons",
   "main": "lib/index.js",
