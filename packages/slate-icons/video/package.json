@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-icon-video",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "Slate icon for video",
   "main": "lib/index.js",
   "author": "",
@@ -16,8 +16,8 @@
   },
   "dependencies": {
     "@ali/image-upload": "^0.10.0",
-    "@ali/slate-editor-renderer": "^1.5.7",
-    "@ali/slate-icon-shared": "^1.5.7"
+    "@ali/slate-editor-renderer": "^1.5.8",
+    "@ali/slate-icon-shared": "^1.5.8"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

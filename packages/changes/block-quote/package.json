@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-helper-block-quote",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "A slate helper for blockquote",
   "main": "lib/index.js",
   "directories": {
@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ali/slate-constant": "^1.5.7",
+    "@ali/slate-constant": "^1.5.8",
     "slate-edit-blockquote": "^0.5.0"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"

@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-select-fontsize",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "A slate selector for changing font sizes",
   "main": "./lib/index.js",
   "author": "",
@@ -15,9 +15,9 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@ali/slate-editor-renderer": "^1.5.7",
-    "@ali/slate-icon-shared": "^1.5.7",
-    "@ali/slate-select-shared": "^1.5.7",
+    "@ali/slate-editor-renderer": "^1.5.8",
+    "@ali/slate-icon-shared": "^1.5.8",
+    "@ali/slate-select-shared": "^1.5.8",
     "lodash.omit": "^4.5.0",
     "react-dropdown": "^1.4.0"
   },

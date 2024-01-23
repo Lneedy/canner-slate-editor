@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-util-what",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "A slate utility function to get types",
   "main": "lib/index.js",
   "publishConfig": {

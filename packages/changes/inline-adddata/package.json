@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-helper-inline-adddata",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "A slate helper to add data to current inline",
   "main": "lib/index.js",
   "directories": {

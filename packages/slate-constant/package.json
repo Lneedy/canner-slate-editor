@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-constant",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "Constants in Slate editors",
   "main": "./lib/index",
   "author": "",

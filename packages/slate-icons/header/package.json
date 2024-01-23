@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-icon-header",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "Slate icons for headers",
   "main": "lib/index.js",
   "author": "",
@@ -15,9 +15,9 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@ali/slate-editor-renderer": "^1.5.7",
-    "@ali/slate-icon-shared": "^1.5.7",
-    "@ali/slate-util-have": "^1.5.7",
+    "@ali/slate-editor-renderer": "^1.5.8",
+    "@ali/slate-icon-shared": "^1.5.8",
+    "@ali/slate-util-have": "^1.5.8",
     "is-hotkey": "^0.1.2"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
