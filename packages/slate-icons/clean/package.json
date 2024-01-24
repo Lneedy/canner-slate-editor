@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-icon-clean",
-  "version": "1.5.8",
+  "version": "1.6.0",
   "description": "A slate icon for clean",
   "main": "lib/index.js",
   "author": "",
@@ -16,8 +16,8 @@
     "slate": ">=0.33.0"
   },
   "dependencies": {
-    "@ali/slate-helper-mark-removeall": "^1.5.8",
-    "@ali/slate-icon-shared": "^1.5.8"
+    "@ali/slate-helper-mark-removeall": "^1.6.0",
+    "@ali/slate-icon-shared": "^1.6.0"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

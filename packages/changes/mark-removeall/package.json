@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-helper-mark-removeall",
-  "version": "1.5.9",
+  "version": "1.6.0",
   "description": "A slate helper to remove all mark",
   "main": "lib/index.js",
   "directories": {

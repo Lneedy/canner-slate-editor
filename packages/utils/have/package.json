@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-util-have",
-  "version": "1.5.8",
+  "version": "1.6.0",
   "description": "Utility functions for judging whether it have something",
   "main": "lib/index.js",
   "directories": {
