@@ -1,6 +1,6 @@
 {
   "name": "@ali/slate-editor-help",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "Help menu of Canner Editor",
   "homepage": "",
   "author": {
@@ -16,7 +16,7 @@
     "react-dom": "^0.14.0 || ^15.0.0 || 16.x"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

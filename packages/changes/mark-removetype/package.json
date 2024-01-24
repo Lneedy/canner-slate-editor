@@ -1,13 +1,13 @@
 {
   "name": "@ali/slate-helper-mark-removetype",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "A slate helper to remove specific mark type",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "author": "",
   "license": "MIT",

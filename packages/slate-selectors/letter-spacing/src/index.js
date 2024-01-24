@@ -1,12 +1,12 @@
 // @flow
 import * as React from "react";
 import type { IconProps } from "shared/src/types";
-import { markAttrs } from "@canner/slate-icon-shared";
+import { markAttrs } from "@ali/slate-icon-shared";
 
 import { Dropdown, Menu } from "antd";
-import { LETTERSPACING } from "@canner/slate-constant/lib/marks";
-import { SharedMarkSelectorDecoration } from "@canner/slate-select-shared";
-import commonMark from "@canner/slate-editor-renderer/lib/commonMark";
+import { LETTERSPACING } from "@ali/slate-constant/lib/marks";
+import { SharedMarkSelectorDecoration } from "@ali/slate-select-shared";
+import commonMark from "@ali/slate-editor-renderer/lib/commonMark";
 import omit from "lodash.omit";
 
 export const LetterSpacingPlugin = opt => {

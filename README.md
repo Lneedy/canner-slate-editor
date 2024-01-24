@@ -137,28 +137,28 @@ $ npm install antd slate slate-react
 
 **_Supported features:_**
 
-* [Align - @canner/slate-icon-align](./packages/slate-icons/align) - center, left, right
-* [Blockquote - @canner/slate-icon-blockquote](./packages/slate-icons/blockquote)
-* [Bold - @canner/slate-icon-bold](./packages/slate-icons/bold)
-* [Clean - @canner/slate-icon-clean](./packages/slate-icons/clean)
-* [Code - @canner/slate-icon-code](./packages/slate-icons/code)
-* [CodeBlock - @canner/slate-icon-codeblock](./packages/slate-icons/codeblock)
-* [Emoji - @canner/slate-icon-emoji](./packages/slate-icons/emoji)
-* [Font background color - @canner/slate-icon-fontbgcolor](./packages/slate-icons/font-bg-color)
-* [Font color - @canner/slate-icon-fontcolor](./packages/slate-icons/font-color)
-* [Hr - @canner/slate-icon-hr](./packages/slate-icons/hr)
-* [Header - @canner/slate-icon-header](./packages/slate-icons/header) - header 1, header 2, header 3, header 4, header 5, header 6
-* [Image - @canner/slate-icon-image](./packages/slate-icons/image)
-* [Indent - @canner/slate-icon-indent](./packages/slate-icons/indent) - indent, outdent
-* [Italic - @canner/slate-icon-italic](./packages/slate-icons/italic)
-* [Link - @canner/slate-icon-link](./packages/slate-icons/link)
-* [List - @canner/slate-icon-list](./packages/slate-icons/list) - Ol list, Ul list
-* [Strike through - @canner/slate-icon-strikethrough](./packages/slate-icons/strikethrough)
-* [Underline - @canner/slate-icon-underline](./packages/slate-icons/underline)
-* [Undo - @canner/slate-icon-undo](./packages/slate-icons/undo)
-* [Redo - @canner/slate-icon-redo](./packages/slate-icons/redo)
-* [Video - @canner/slate-icon-video](./packages/slate-icons/video)
-* [Table - @canner/slate-icon-table](./packages/slate-icons/table)
+* [Align - @ali/slate-icon-align](./packages/slate-icons/align) - center, left, right
+* [Blockquote - @ali/slate-icon-blockquote](./packages/slate-icons/blockquote)
+* [Bold - @ali/slate-icon-bold](./packages/slate-icons/bold)
+* [Clean - @ali/slate-icon-clean](./packages/slate-icons/clean)
+* [Code - @ali/slate-icon-code](./packages/slate-icons/code)
+* [CodeBlock - @ali/slate-icon-codeblock](./packages/slate-icons/codeblock)
+* [Emoji - @ali/slate-icon-emoji](./packages/slate-icons/emoji)
+* [Font background color - @ali/slate-icon-fontbgcolor](./packages/slate-icons/font-bg-color)
+* [Font color - @ali/slate-icon-fontcolor](./packages/slate-icons/font-color)
+* [Hr - @ali/slate-icon-hr](./packages/slate-icons/hr)
+* [Header - @ali/slate-icon-header](./packages/slate-icons/header) - header 1, header 2, header 3, header 4, header 5, header 6
+* [Image - @ali/slate-icon-image](./packages/slate-icons/image)
+* [Indent - @ali/slate-icon-indent](./packages/slate-icons/indent) - indent, outdent
+* [Italic - @ali/slate-icon-italic](./packages/slate-icons/italic)
+* [Link - @ali/slate-icon-link](./packages/slate-icons/link)
+* [List - @ali/slate-icon-list](./packages/slate-icons/list) - Ol list, Ul list
+* [Strike through - @ali/slate-icon-strikethrough](./packages/slate-icons/strikethrough)
+* [Underline - @ali/slate-icon-underline](./packages/slate-icons/underline)
+* [Undo - @ali/slate-icon-undo](./packages/slate-icons/undo)
+* [Redo - @ali/slate-icon-redo](./packages/slate-icons/redo)
+* [Video - @ali/slate-icon-video](./packages/slate-icons/video)
+* [Table - @ali/slate-icon-table](./packages/slate-icons/table)
 
 👉 Learn more [slate-icons](./packages/slate-icons)
 
@@ -168,9 +168,9 @@ $ npm install antd slate slate-react
 
 **_Supported selectors:_**
 
-* [Font size - @canner/slate-select-fontsize](./packages/slate-selectors/fontsize)
-* [Line height - @canner/slate-select-lineheight](./packages/slate-selectors/line-height)
-* [Letter spacing - @canner/slate-letterspacing](./packages/slate-selectors/letter-spacing)
+* [Font size - @ali/slate-select-fontsize](./packages/slate-selectors/fontsize)
+* [Line height - @ali/slate-select-lineheight](./packages/slate-selectors/line-height)
+* [Letter spacing - @ali/slate-letterspacing](./packages/slate-selectors/letter-spacing)
 
 👉 Learn more [slate-selectors](./packages/slate-selectors)
 

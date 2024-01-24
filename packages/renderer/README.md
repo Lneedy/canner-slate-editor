@@ -1,11 +1,11 @@
-# @canner/slate-editor-renderer
+# @ali/slate-editor-renderer
 
 [![npm version](https://badge.fury.io/js/%40canner%2Fslate-editor-renderer.svg)](https://badge.fury.io/js/%40canner%2Fslate-editor-renderer)
 
 **NOTE: You should directly use it's plugin instead of writing render function.**
 
 ```js
-import renderer from "@canner/slate-editor-renderer";
+import renderer from "@ali/slate-editor-renderer";
 ```
 
 Renderers that define corresponding nodes and marks while rendering your editor.
@@ -106,6 +106,6 @@ function renderNode(props) {
 }
 ```
 
-# @canner/slate-editor-html
+# @ali/slate-editor-html
 
 Serializer and deserializer

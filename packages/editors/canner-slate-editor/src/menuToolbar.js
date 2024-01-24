@@ -6,22 +6,22 @@ import styled from "styled-components";
 import { Container } from "./components/item";
 import FullScreenIcon from "./components/fullScreen";
 
-import { AlignCenter, AlignLeft, AlignRight } from "@canner/slate-icon-align";
-import Blockquote from "@canner/slate-icon-blockquote";
-import Table from "@canner/slate-icon-table";
-import CodeBlock from "@canner/slate-icon-codeblock";
-import FontBgColor from "@canner/slate-icon-fontbgcolor";
-import FontColor from "@canner/slate-icon-fontcolor";
-import { Header1, Header2, Header3 } from "@canner/slate-icon-header";
-import Hr from "@canner/slate-icon-hr";
-import Image from "@canner/slate-icon-image";
-import { Indent, Outdent } from "@canner/slate-icon-indent";
-import Link from "@canner/slate-icon-link";
-import { OlList, UlList } from "@canner/slate-icon-list";
-import Undo from "@canner/slate-icon-undo";
-import Redo from "@canner/slate-icon-redo";
-import Video from "@canner/slate-icon-video";
-import HelpMenu from "@canner/slate-editor-help";
+import { AlignCenter, AlignLeft, AlignRight } from "@ali/slate-icon-align";
+import Blockquote from "@ali/slate-icon-blockquote";
+import Table from "@ali/slate-icon-table";
+import CodeBlock from "@ali/slate-icon-codeblock";
+import FontBgColor from "@ali/slate-icon-fontbgcolor";
+import FontColor from "@ali/slate-icon-fontcolor";
+import { Header1, Header2, Header3 } from "@ali/slate-icon-header";
+import Hr from "@ali/slate-icon-hr";
+import Image from "@ali/slate-icon-image";
+import { Indent, Outdent } from "@ali/slate-icon-indent";
+import Link from "@ali/slate-icon-link";
+import { OlList, UlList } from "@ali/slate-icon-list";
+import Undo from "@ali/slate-icon-undo";
+import Redo from "@ali/slate-icon-redo";
+import Video from "@ali/slate-icon-video";
+import HelpMenu from "@ali/slate-editor-help";
 
 type Props = {
   value: Value,

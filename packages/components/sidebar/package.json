@@ -1,6 +1,6 @@
 {
-  "name": "slate-sidebar",
-  "version": "1.5.8",
+  "name": "@ali/slate-sidebar",
+  "version": "1.5.9",
   "description":
     "Quick and easy way to implement sidebar in your slate editor.",
   "homepage": "",
@@ -32,5 +32,8 @@
     "get-selection-range": "^0.1.0",
     "styled-components": "^3.2.5"
   },
-  "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
+  "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343",
+  "publishConfig": {
+    "registry": "https://registry.anpm.alibaba-inc.com"
+  }
 }

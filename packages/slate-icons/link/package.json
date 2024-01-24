@@ -6,7 +6,7 @@
   "author": "",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "peerDependencies": {
     "@ali/slate-constant": ">=1.0.6",

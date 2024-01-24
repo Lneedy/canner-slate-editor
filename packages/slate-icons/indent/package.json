@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0 || 16.x",

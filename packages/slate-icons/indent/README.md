@@ -1,4 +1,4 @@
-# @canner/slate-icon-indent
+# @ali/slate-icon-indent
 
 [![npm version](https://badge.fury.io/js/%40canner%2Fslate-icon-indent.svg)](https://badge.fury.io/js/%40canner%2Fslate-icon-indent)
 
@@ -10,11 +10,11 @@ Export components:
 * Outdent
 
 ```js
-import { Indent, Outdent } from "@canner/slate-icon-indent";
+import { Indent, Outdent } from "@ali/slate-icon-indent";
 ```
 
 **Plugin:**
 
 ```js
-import { ParagraphPlugin } from "@canner/slate-icon-shared";
+import { ParagraphPlugin } from "@ali/slate-icon-shared";
 ```

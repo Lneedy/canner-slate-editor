@@ -8,8 +8,8 @@ import video from "./videoRules";
 import codeBlock from "./codeBlockRules";
 import emoji from "./emojiRules";
 import voidNode from "./voidNodeRules";
-import { BLOCKS, MARKS, INLINES } from "@canner/slate-constant";
-import { DEFAULT as DEFAULT_VIDEO } from "@canner/slate-icon-video";
+import { BLOCKS, MARKS, INLINES } from "@ali/slate-constant";
+import { DEFAULT as DEFAULT_VIDEO } from "@ali/slate-icon-video";
 
 export const markRules = mark;
 export const blockRules = block;

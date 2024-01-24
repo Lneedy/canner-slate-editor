@@ -1,9 +1,6 @@
 import React, { Component } from "react";
-import ToolbarIcon, {
-  markDecorator,
-  markPlugin
-} from "@canner/slate-icon-shared";
-import { UNDERLINE } from "@canner/slate-constant/lib/marks";
+import ToolbarIcon, { markDecorator, markPlugin } from "@ali/slate-icon-shared";
+import { UNDERLINE } from "@ali/slate-constant/lib/marks";
 
 export const UnderlinePlugin = opt => {
   const options = Object.assign(

@@ -1,12 +1,12 @@
 {
   "name": "@ali/slate-editor-renderer",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "Renderers for slate nodes and marks",
   "main": "lib/index.js",
   "author": "",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0 || 16.x",
@@ -20,7 +20,7 @@
     "js-video-url-parser": "^0.2.7",
     "lodash.mapvalues": "^4.6.0",
     "prismjs": "^1.15.0",
-    "quill-icons": "^1.5.6",
+    "@ali/quill-icons": "^1.5.0",
     "react-icons": "^2.2.7",
     "react-loading-image": "^0.5.0",
     "react-resizable": "^1.7.5",

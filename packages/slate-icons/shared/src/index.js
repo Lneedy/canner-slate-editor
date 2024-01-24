@@ -3,10 +3,10 @@ import * as React from "react";
 import { type Change } from "slate";
 import basicMarkDecoration from "./basicMarkDecoration";
 import basicMarkPlugin from "./basicMarkPlugin";
-import { PARAGRAPH } from "@canner/slate-constant/lib/blocks";
-import { FONTSIZE, LETTERSPACING } from "@canner/slate-constant/lib/marks";
-import QuillIcons from "quill-icons";
-import commonNode from "@canner/slate-editor-renderer/lib/commonNode";
+import { PARAGRAPH } from "@ali/slate-constant/lib/blocks";
+import { FONTSIZE, LETTERSPACING } from "@ali/slate-constant/lib/marks";
+import QuillIcons from "@ali/quill-icons";
+import commonNode from "@ali/slate-editor-renderer/lib/commonNode";
 import omit from "lodash.omit";
 import cx from "classnames";
 

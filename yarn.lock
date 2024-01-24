@@ -730,17 +730,17 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@canner/image-upload@^0.10.0":
+"@ali/image-upload@^0.10.0":
   version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@canner/image-upload/-/image-upload-0.10.0.tgz#2277038e91073723d9e3e2ccb1c38726c1e393eb"
+  resolved "https://registry.yarnpkg.com/@ali/image-upload/-/image-upload-0.10.0.tgz#2277038e91073723d9e3e2ccb1c38726c1e393eb"
   dependencies:
     react-intl "^2.4.0"
     react-loading-image "^0.3.0"
     styled-components "^3.2.0"
 
-"@canner/image-upload@^0.13.1":
+"@ali/image-upload@^0.13.1":
   version "0.13.1"
-  resolved "https://registry.yarnpkg.com/@canner/image-upload/-/image-upload-0.13.1.tgz#06c45567618356d1019d16592c7f5520200dee02"
+  resolved "https://registry.yarnpkg.com/@ali/image-upload/-/image-upload-0.13.1.tgz#06c45567618356d1019d16592c7f5520200dee02"
   dependencies:
     react-intl "^2.4.0"
     react-loading-image "^0.4.1"

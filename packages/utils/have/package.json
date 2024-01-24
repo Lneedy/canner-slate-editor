@@ -7,7 +7,7 @@
     "test": "test"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "author": "",
   "license": "MIT",

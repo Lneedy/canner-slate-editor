@@ -1,4 +1,4 @@
-# @canner/slate-icon-list
+# @ali/slate-icon-list
 
 [![npm version](https://badge.fury.io/js/%40canner%2Fslate-icon-list.svg)](https://badge.fury.io/js/%40canner%2Fslate-icon-list)
 
@@ -10,11 +10,11 @@ Export components:
 * UlList
 
 ```js
-import { OlList, UlList } from "@canner/slate-icon-list";
+import { OlList, UlList } from "@ali/slate-icon-list";
 ```
 
 **Plugin:**
 
 ```js
-import { ListPlugin } from "@canner/slate-icon-list";
+import { ListPlugin } from "@ali/slate-icon-list";
 ```

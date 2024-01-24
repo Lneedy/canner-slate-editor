@@ -4,7 +4,7 @@
   "description": "A slate utility function to get values",
   "main": "lib/index.js",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "author": "",
   "license": "MIT",

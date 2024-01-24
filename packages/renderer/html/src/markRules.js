@@ -1,7 +1,7 @@
 // @flow
 import React from "react";
 import mapValues from "lodash.mapvalues";
-import { markAttrs } from "@canner/slate-icon-shared";
+import { markAttrs } from "@ali/slate-icon-shared";
 
 export default function(Tag, markType, stylesAttr = markAttrs) {
   return {

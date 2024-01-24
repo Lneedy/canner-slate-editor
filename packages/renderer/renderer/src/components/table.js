@@ -5,7 +5,7 @@ import type { Change } from "slate";
 import type { nodeProps } from "../type";
 
 import { Tooltip } from "antd";
-import QuillIcons from "quill-icons";
+import QuillIcons from "@ali/quill-icons";
 import FaTrashO from "react-icons/lib/fa/trash-o";
 import styled from "styled-components";
 import EditTable from "slate-edit-table";

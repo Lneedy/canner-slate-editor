@@ -1,13 +1,13 @@
 {
   "name": "@ali/slate-helper-inline-adddata",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "A slate helper to add data to current inline",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

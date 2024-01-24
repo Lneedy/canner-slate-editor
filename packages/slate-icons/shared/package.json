@@ -1,12 +1,12 @@
 {
   "name": "@ali/slate-icon-shared",
-  "version": "1.5.8",
+  "version": "1.5.11",
   "description": "Shared utils and functions for slate icons",
   "main": "lib/index.js",
   "author": "",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "peerDependencies": {
     "@ali/slate-constant": ">=1.0.6",
@@ -20,7 +20,7 @@
     "classnames": "^2.2.5",
     "is-hotkey": "^0.1.2",
     "lodash.omit": "^4.5.0",
-    "quill-icons": "^1.5.6"
+    "@ali/quill-icons": "^1.5.6"
   },
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
 }

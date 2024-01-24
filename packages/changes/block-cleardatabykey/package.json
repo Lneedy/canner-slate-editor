@@ -1,10 +1,10 @@
 {
   "name": "@ali/slate-helper-block-cleardatabykey",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "A slate helper that clear a data key in block",
   "main": "lib/index.js",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "author": "",
   "license": "MIT",

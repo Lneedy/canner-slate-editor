@@ -1,6 +1,6 @@
 // @flow
 import React from "react";
-import { EMOJI } from "@canner/slate-constant/lib/inlines";
+import { EMOJI } from "@ali/slate-constant/lib/inlines";
 
 export default function(opt) {
   const options = Object.assign(

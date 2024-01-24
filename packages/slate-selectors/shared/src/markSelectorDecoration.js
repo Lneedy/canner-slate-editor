@@ -1,10 +1,10 @@
 // @flow
 import * as React from "react";
 import type { IconProps } from "./types";
-import removeType from "@canner/slate-helper-mark-removetype";
-import addMarkOverwrite from "@canner/slate-helper-mark-addoverwrite";
-import { haveMarks } from "@canner/slate-util-have";
-import { getMarkType } from "@canner/slate-util-get";
+import removeType from "@ali/slate-helper-mark-removetype";
+import addMarkOverwrite from "@ali/slate-helper-mark-addoverwrite";
+import { haveMarks } from "@ali/slate-util-have";
+import { getMarkType } from "@ali/slate-util-get";
 
 export default (type: string) => (Selector: React.Element<*>) => {
   return class SharedSelector extends React.Component<IconProps> {

@@ -1,9 +1,6 @@
 import React, { Component } from "react";
-import ToolbarIcon, {
-  markDecorator,
-  markPlugin
-} from "@canner/slate-icon-shared";
-import { STRIKETHROUGH } from "@canner/slate-constant/lib/marks";
+import ToolbarIcon, { markDecorator, markPlugin } from "@ali/slate-icon-shared";
+import { STRIKETHROUGH } from "@ali/slate-constant/lib/marks";
 
 export const StrikeThroughPlugin = opt => {
   const options = Object.assign(

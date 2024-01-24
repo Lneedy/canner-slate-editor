@@ -1,5 +1,5 @@
-import { whatMarkTypes } from "@canner/slate-util-what";
-import { getMarkType } from "@canner/slate-util-get";
+import { whatMarkTypes } from "@ali/slate-util-what";
+import { getMarkType } from "@ali/slate-util-get";
 
 export default (change, type) => {
   // if type exist, remove same type mark

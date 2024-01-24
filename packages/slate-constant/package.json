@@ -6,7 +6,7 @@
   "author": "",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "dependencies": {
     "object-values": "^2.0.0"

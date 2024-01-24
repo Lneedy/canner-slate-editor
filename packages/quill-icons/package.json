@@ -1,5 +1,5 @@
 {
-  "name": "quill-icons",
+  "name": "@ali/quill-icons",
   "version": "1.5.6",
   "description": "Common editor icons from quill editor",
   "author": {
@@ -25,5 +25,8 @@
     "lodash.pick": "^4.4.0",
     "lodash.xor": "^4.5.0"
   },
-  "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
+  "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343",
+  "publishConfig": {
+    "registry": "https://registry.anpm.alibaba-inc.com"
+  }
 }

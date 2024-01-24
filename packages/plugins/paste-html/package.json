@@ -13,7 +13,7 @@
     "@ali/slate-editor-html": "^1.5.8"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "keywords": ["slate", "plugin", "copy", "paste"],
   "gitHead": "f88a2382639ea01c6b8cde000b1806d6c25bc343"
