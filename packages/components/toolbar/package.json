@@ -1,5 +1,5 @@
 {
-  "name": "slate-toolbar",
+  "name": "@ali/slate-toolbar",
   "version": "1.5.8",
   "description":
     "Quick and easy way to implement medium like toolbar in you slate editor",
