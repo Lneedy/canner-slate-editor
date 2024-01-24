@@ -1,6 +1,6 @@
 {
   "name": "canner-slate-editor",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description":
     "Another rich text editor using Slate framework with toolbar support",
   "homepage": "",
@@ -65,7 +65,7 @@
     "@ali/slate-icon-undo": "^1.6.0",
     "@ali/slate-icon-video": "^1.6.0",
     "@ali/slate-sidebar": "^1.6.0",
-    "@ali/slate-toolbar": "^1.6.0",
+    "@ali/slate-toolbar": "^1.6.1",
     "github-markdown-css": "^2.10.0",
     "prismjs": "^1.13.0",
     "slate-edit-blockquote": "^0.5.0",
